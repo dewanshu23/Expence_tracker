@@ -1,0 +1,96 @@
+/* .a{
+    height: 30px;
+    width: 45%
+}
+.b{
+    height: 30px;
+    width: 45%
+} */
+
+.bal{
+    height: 30px;
+    width: 150px;
+   font-size: large;
+   margin-right: 65px;
+   background-color: rgb(187, 186, 186);
+   color: white;
+   border-radius: 3px;
+}
+
+.btn{
+    height: 40px;
+    width: 450px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(100, 149, 241);
+    border: 2px solid rgb(100, 149, 241);;
+    font-size: x-large  ;
+}
+td{
+    width:448px;
+    height: 30px;
+
+}
+
+input{
+    border: none;
+    width:448px;
+    height: 30px;
+    color: rgb(92, 92, 92);
+    font-size: large;
+}
+
+input:focus{
+    outline: none;
+}
+.tbl{
+    border-collapse: collapse;
+}
+
+.add{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(100, 149, 241);
+    border: 2px solid rgb(100, 149, 241);
+    font-size: larger;
+}
+.add:hover,.btn:hover,.clr:hover{
+    background-color:rgb(100, 149, 241);
+    color: rgb(255, 255, 255);
+    border: none;
+}
+
+.header{
+    margin: auto;
+}
+
+.main{
+    height: auto;
+    width:905px;
+    border: 2px solid gray;
+    margin: auto;
+    padding: 40px;
+    font-size: large;
+    color: navy;
+}
+.history{
+    height: 350px;
+    width: auto;
+    
+}
+
+
+.histTable{
+    border-collapse:collapse ;
+    border-color: gray;
+}
+
+.clr{
+    height: 20px;
+    width: 100px;
+    font-size: medium;
+    background-color: rgb(255, 255, 255);
+    color: rgb(100, 149, 241);
+    border: 2px solid rgb(100, 149, 241);
+    visibility: hidden;
+}
